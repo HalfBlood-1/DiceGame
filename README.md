@@ -1,3 +1,4 @@
 # DiceGame
-Let's see who will win![Screenshot from 2024-08-27 23-58-21](https://github.com/user-attachments/assets/c5ff8ca5-16e9-4695-9c46-155d63290910)
+Let's see who will win!
 
+[Screencast from 2024-10-08 11-51-38.webm](https://github.com/user-attachments/assets/90272269-2f9b-4687-87c4-2b17d554f0dc)
