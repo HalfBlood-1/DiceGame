@@ -1,3 +1,12 @@
+const refreshBtn = document.getElementById("btnRefresh");
+
+function handleClick() {
+  window.location.reload();
+}
+
+refreshBtn.addEventListener("click", handleClick);
+
+
 var randomNumber1 = Math.random();
 
 randomNumber1 = Math.floor(randomNumber1*6) + 1;
